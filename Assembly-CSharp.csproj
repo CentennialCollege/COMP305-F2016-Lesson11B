@@ -105,6 +105,7 @@
      <Compile Include="Assets\_Scripts\EnemyController.cs" />
      <Compile Include="Assets\_Scripts\FollowPlayer.cs" />
      <Compile Include="Assets\_Scripts\PlayerShooting.cs" />
+     <Compile Include="Assets\_Scripts\ProjectShooting.cs" />
      <None Include="Assets\_Imported Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
